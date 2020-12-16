@@ -9,11 +9,11 @@ In this repository There are three jupyter notebook scripts, one for loading the
 *Data:* Folder containing the data used in this project. The data consists of static terrain features and Snow water equivalent measurements
 *Figs:* Folder containing the figures used in the report
 ### Scripts
-*Neural_Network.ipynb:* Script performing the Multi-layer perceptron regression.
+**Neural_Network.ipynb:** Script performing the Multi-layer perceptron regression.
 
-*Random_forest.ipynb:* Script performing the random forest regression
+**Random_forest.ipynb:** Script performing the random forest regression
 
-*Read_Tuolumne_data.ipynb:* Loads data and separates into variables. This script is run by Random_forest.ipynb and Neural_Network.ipynb
+**Read_Tuolumne_data.ipynb:** Loads data and separates into variables. This script is run by Random_forest.ipynb and Neural_Network.ipynb
 
 
 
